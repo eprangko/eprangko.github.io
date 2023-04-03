@@ -1,5 +1,6 @@
 # Elektronik Prangko Indonesia
-Elektronik Prangko Indonesia, Dasar Hukum :
+
+Dasar Hukum :
 * [Undang-Undang Nomor 38 Tahun 2009](./dh/UUNomor38Tahun2009.pdf)
   * Pasal 22 tentang fungsi prangko:
     * Bukti pembayaran biaya pengiriman pos
@@ -14,4 +15,9 @@ Elektronik Prangko Indonesia, Dasar Hukum :
 
 ## Pembuatan Standar Penerbitan Eprangko
 
-Paparan [Prangko Digital Twin](./ppt/DigitalTwinPrangko.pdf)
+Paparan [Prangko Digital Twin](./ppt/DigitalTwinPrangko.pdf) di berbagai negara
+
+Maka definisi prangko elektronik diantaranya :
+
+1. Memiliki dua carik, carik utama dan carik lampiran. Carik utama berisi publik key, carik lampiran berisi private key atau passphrase.
+
