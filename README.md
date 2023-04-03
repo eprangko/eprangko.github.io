@@ -21,3 +21,4 @@ Maka definisi prangko elektronik diantaranya :
 
 1. Memiliki dua carik, carik utama dan carik lampiran. Carik utama berisi publik key, carik lampiran berisi private key atau passphrase.
 
+![image](https://user-images.githubusercontent.com/11188109/229649206-6d37a8c3-a207-42ec-a359-c7d0d86b3fbb.png)
