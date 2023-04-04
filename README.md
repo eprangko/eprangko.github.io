@@ -9,7 +9,7 @@ Dasar Hukum :
     * Benda filateli
 * [Permen kominfo No. 21 Tahun 2012](./dh/PermenkominfoNo21Tahun2012.pdf)
   * Pasal 1 Tentang Definisi Perangko adalah carik kertas
-
+  * ![image](https://user-images.githubusercontent.com/11188109/229653892-8fcb7522-4b99-4bfc-8927-6e6bae4bd7c3.png)
 * [Peraturan Pemerintah No. 71 Tahun 2019](./dh/71TAHUN2019PP.pdf)
   * Tentang penyelenggara sertifikat elektronik
 
