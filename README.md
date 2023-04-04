@@ -47,4 +47,4 @@ Augmented reality(AR) berfungsi untuk menambah informasi tentang prangko, platfo
 
 ### Prangko NFT
 
-Edisi khusus prangko NFT dalam format standar carik kenangan atau souvenir sheet yang terbit minimal setahun sekali. Yang disebut sebagai prangko NFT disini adalah prangko yang berisikan koleksi NFT yang di simpan dalam wallet address dicetak pada carik utama(QR). Akses wallet adress menggunakan private key atau pass phrase (QR) di bagian carik keamnan. Sehingga pemilik Carik Kenangan merupakan pemilik NFT sepenuhnya, tanpa harus melakukan klaim lagi dari sistem.
+Edisi khusus prangko NFT dalam format standar carik kenangan atau souvenir sheet yang terbit minimal setahun sekali. Yang disebut sebagai prangko NFT disini adalah prangko yang berisikan koleksi NFT yang di simpan dalam wallet address dicetak pada carik utama(QR). Akses wallet adress menggunakan private key atau pass phrase (QR) di bagian carik keamanan. Sehingga pemilik Carik Kenangan merupakan pemilik NFT sepenuhnya, tanpa harus melakukan klaim lagi dari sistem.
