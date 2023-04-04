@@ -22,7 +22,10 @@ Paparan :
 ## Draft Standar Penerbitan Eprangko
 
 Eprangko bisa menjadi Bukti pembayaran biaya pengiriman pos. Dengan cara menempelkan carik utama pada surat atau kartu pos. Dengan fungsi utama sebagai media keamanan pengiriman surel. Baik itu surel yang bersifat rahasia, penting atau biasa. EPrangko menjadi salah satu metode untuk meningkatkan faktor keamanan MFA (MFA : Multi Factor Authentication) pada pengiriman surel pelanggan. 
-Alurnya sebagai berikut :
+Alurnya pengiriman surel terenkripsi :
+
+![image](https://user-images.githubusercontent.com/11188109/229702929-21ad8fcb-c14e-4172-87bd-622dbe28263e.png)
+
 1. Simpan dengan baik carik pengaman.
 2. Carik Utama dikirimkan kepada calon pengirim surel sebagai keamanan tambahan verifikasi alamat pengirim(MFA : Multi Factor Authentication) menggunakan jasa pengiriman surat pos atau alat komunikasi lainnya. 
 3. QR Carik Utama bisa menjadi track and trace kiriman. 
