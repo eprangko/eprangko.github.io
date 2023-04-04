@@ -23,7 +23,7 @@ Maka definisi prangko elektronik diantaranya :
 
 ![image](https://user-images.githubusercontent.com/11188109/229650984-cdce0f06-92fa-446d-a1c2-f3d01cd5e27c.png)
 
-2. QR Code berisi Keyring PGP yang berfungsi untuk pengiriman surel terenskripsi sesuai dengan standar [RFC 2350 Gov-CSIRT Indonesia](https://www.idsirtii.or.id/halaman/tentang/rfc-2350-gov-csirt-indonesia.html)
+2. QR Code berisi Keyring PGP dengan masa kedaluarsa 1 tahun. Berfungsi untuk pengiriman surel terenskripsi sesuai dengan standar [RFC 2350 Gov-CSIRT Indonesia](https://www.idsirtii.or.id/halaman/tentang/rfc-2350-gov-csirt-indonesia.html)
 3. [Penyelenggara Sertifikasi Elektronik PSrE](https://www.rootca.id/) bisa menyediaan key server untuk kepentingan validasi pengirim dan penerima surel.
 4. eprangko bisa dikirimkan melalui pos dengan cara ditempel pada surat atau kartu pos, untuk dikirimkan kepada pengirim surel sebagai keamanan tambahan verifikasi alamat pengirim(MFA : Multi Factor Authentication).
 5. Bisa ditambahkan AR untuk menambah informasi tentang prangko, platform AR menggunakan kode sumber terbuka yang di sepakati bersama dalam rangka kontribusi riset dan ilmu pengetahuan, supaya konten terus tumbuh berkembang. Sebagai contoh : Google's ARCore, AR.js, ARToolKit, DroidAR.
