@@ -37,5 +37,11 @@ Alurnya sebagai berikut :
 
 2. QR Code berisi Keyring PGP dengan masa kedaluarsa 1 tahun, disposable atau reuse. Berfungsi untuk pengiriman surel terenskripsi sesuai dengan standar [RFC 2350 Gov-CSIRT Indonesia](https://www.idsirtii.or.id/halaman/tentang/rfc-2350-gov-csirt-indonesia.html)
 3. Bisa di kerjasamakan dengan [Penyelenggara Sertifikasi Elektronik PSrE](https://www.rootca.id/) untuk menyediaan key server untuk kepentingan validasi pengirim dan penerima surel.
-4. Augmented reality(AR) berfungsi untuk menambah informasi tentang prangko, platform AR menggunakan kode sumber terbuka dan infrastruktur yang di sepakati bersama dalam rangka kontribusi riset dan ilmu pengetahuan, supaya konten terus tumbuh berkembang. Sebagai contoh : Google's ARCore, AR.js, ARToolKit, DroidAR.
-5. Edisi khusus prangko kripto seperti full sheet atau souvenir yang terbit minimal setahun sekali. Yang disebut sebagai prangko kripto disini adalah prangko yang berisikan koleksi NFT yang ditaruh di dalam alamat wallet(QR) yang di cetak dalam carik utama, dan private key(QR) di bagian carik lampiran.
+
+### Augmented Reality
+
+Augmented reality(AR) berfungsi untuk menambah informasi tentang prangko, platform AR menggunakan kode sumber terbuka dan infrastruktur yang di sepakati bersama dalam rangka kontribusi riset dan ilmu pengetahuan, supaya konten terus tumbuh berkembang. Sebagai contoh : Google's ARCore, AR.js, ARToolKit, DroidAR.
+
+### Prangko NFT
+
+Edisi khusus prangko kripto seperti full sheet atau souvenir yang terbit minimal setahun sekali. Yang disebut sebagai prangko kripto disini adalah prangko yang berisikan koleksi NFT yang ditaruh di dalam alamat wallet(QR) yang di cetak dalam carik utama, dan private key(QR) di bagian carik lampiran.
