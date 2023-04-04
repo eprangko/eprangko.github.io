@@ -15,7 +15,7 @@ Dasar Hukum :
 
 ## Pembuatan Standar Penerbitan Eprangko
 
-Paparan [Prangko Digital Twin](./ppt/DigitalTwinPrangko.pdf) di berbagai negara
+Paparan [Prangko Digital Twin](./ppt/DigitalTwinPrangko.pdf)
 
 Maka definisi prangko elektronik diantaranya :
 
