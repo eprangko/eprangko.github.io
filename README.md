@@ -1,4 +1,4 @@
-# Elektronik Prangko Indonesia
+# Draft Prangko Elektronik Indonesia
 
 Dasar Hukum :
 * [Undang-Undang Nomor 38 Tahun 2009](./dh/UUNomor38Tahun2009.pdf)
@@ -19,15 +19,20 @@ Dasar Hukum :
 Paparan :
 * [Prangko Digital Twin](./ppt/DigitalTwinPrangko.pdf) Beberapa Negara
 
-## Pembuatan Standar Penerbitan Eprangko
+## Draft Standar Penerbitan Eprangko
 
-Maka definisi prangko elektronik diantaranya :
-1. Menggunakan secure paper. memiliki dua carik yang dipisahkan oleh perforasi, carik utama dan carik lampiran. Carik utama berisi QR PGP publik key, carik lampiran berisi private key atau passphrase. Carik utama berfungsi untuk dikirimkan ke pada pengirim surel, sedangkan carik lampirang yang berisi PGP Private key di simpan oleh penerima. Carik lampiran bisa di tambahkan keamanan dengan cara di gosok untuk bisa melihat qrcode di dalamnya. 
+Eprangko bisa menjadi Bukti pembayaran biaya pengiriman pos. Dengan cara menempelkan carik utama pada surat atau kartu pos. Dengan fungsi utama sebagai media keamanan pengiriman surel. Baik itu surel yang bersifat rahasia, penting atau biasa. EPrangko menjadi salah satu metode untuk meningkatkan faktor keamanan MFA (MFA : Multi Factor Authentication) pada pengiriman surel pelanggan. 
+Metodenya antara lain :
+1. Dikirimkan kepada calon pengirim surel sebagai keamanan tambahan verifikasi alamat pengirim(MFA : Multi Factor Authentication) menggunakan jasa pengiriman surat pos. QR Public Key bisa menjadi track and trace kiriman.(Direkomendasikan)
+2. QR Code carik Utama dikirimkan melalui media telekomunikasi lainnya. 
+
+### Kerangka Dasar Desain EPrangko
+
+1. Menggunakan secure paper. Memiliki dua carik yang dipisahkan oleh perforasi, carik utama dan carik lampiran. Carik utama berisi QR(Quick Response) Code PGP publik key, carik lampiran berisi QR(Quick Response) Code PGP private key. Carik utama berfungsi sebagai bukti bayar biaya pengiriman pos untuk dikirimkan ke pada calon pengirim surel, sedangkan carik lampirang di simpan oleh penerima. Carik lampiran bisa di tambahkan keamanan dengan menambahkan scratch-area, sehingga untuk membaca QR dengan cara di gosok. 
 
 ![image](https://user-images.githubusercontent.com/11188109/229650984-cdce0f06-92fa-446d-a1c2-f3d01cd5e27c.png)
 
-2. QR Code berisi Keyring PGP dengan masa kedaluarsa 1 tahun. Berfungsi untuk pengiriman surel terenskripsi sesuai dengan standar [RFC 2350 Gov-CSIRT Indonesia](https://www.idsirtii.or.id/halaman/tentang/rfc-2350-gov-csirt-indonesia.html)
-3. [Penyelenggara Sertifikasi Elektronik PSrE](https://www.rootca.id/) bisa menyediaan key server untuk kepentingan validasi pengirim dan penerima surel.
-4. eprangko bisa menjadi bea kirim. Dengan cara ditempel pada surat atau kartu pos. Bisa untuk dikirimkan kepada pengirim surel sebagai keamanan tambahan verifikasi alamat pengirim(MFA : Multi Factor Authentication). QR Public Key bisa menjadi track and trace kiriman.
-5. Augmented reality(AR) berfungsi untuk menambah informasi tentang prangko, platform AR menggunakan kode sumber terbuka dan infrastruktur yang di sepakati bersama dalam rangka kontribusi riset dan ilmu pengetahuan, supaya konten terus tumbuh berkembang. Sebagai contoh : Google's ARCore, AR.js, ARToolKit, DroidAR.
-6. Edisi khusus prangko kripto seperti full sheet atau souvenir yang terbit minimal setahun sekali. Yang disebut sebagai prangko kripto disini adalah prangko yang berisikan koleksi NFT yang ditaruh di dalam alamat wallet(QR) yang di cetak dalam carik utama, dan private key(QR) di bagian carik lampiran.
+2. QR Code berisi Keyring PGP dengan masa kedaluarsa 1 tahun, disposable atau reuse. Berfungsi untuk pengiriman surel terenskripsi sesuai dengan standar [RFC 2350 Gov-CSIRT Indonesia](https://www.idsirtii.or.id/halaman/tentang/rfc-2350-gov-csirt-indonesia.html)
+3. Bisa di kerjasamakan dengan [Penyelenggara Sertifikasi Elektronik PSrE](https://www.rootca.id/) untuk menyediaan key server untuk kepentingan validasi pengirim dan penerima surel.
+4. Augmented reality(AR) berfungsi untuk menambah informasi tentang prangko, platform AR menggunakan kode sumber terbuka dan infrastruktur yang di sepakati bersama dalam rangka kontribusi riset dan ilmu pengetahuan, supaya konten terus tumbuh berkembang. Sebagai contoh : Google's ARCore, AR.js, ARToolKit, DroidAR.
+5. Edisi khusus prangko kripto seperti full sheet atau souvenir yang terbit minimal setahun sekali. Yang disebut sebagai prangko kripto disini adalah prangko yang berisikan koleksi NFT yang ditaruh di dalam alamat wallet(QR) yang di cetak dalam carik utama, dan private key(QR) di bagian carik lampiran.
