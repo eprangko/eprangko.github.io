@@ -13,12 +13,12 @@ Dasar Hukum :
 * [Peraturan Pemerintah No. 71 Tahun 2019](./dh/71TAHUN2019PP.pdf)
   * Tentang penyelenggara sertifikat elektronik
 
+Paparan :
+* [Prangko Digital Twin](./ppt/DigitalTwinPrangko.pdf) Beberapa Negara
+
 ## Pembuatan Standar Penerbitan Eprangko
 
-Paparan [Prangko Digital Twin](./ppt/DigitalTwinPrangko.pdf)
-
 Maka definisi prangko elektronik diantaranya :
-
 1. Memiliki dua carik, carik utama dan carik lampiran. Carik utama berisi QR PGP publik key, carik lampiran berisi private key atau passphrase. Carik utama berfungsi untuk dikirimkan ke pada pengirim surel, sedangkan carik lampirang yang berisi PGP Private key di simpan oleh penerima. Carik lampiran bisa di tambahkan keamanan dengan cara di gosok untuk bisa melihat qrcode di dalamnya. 
 
 ![image](https://user-images.githubusercontent.com/11188109/229650984-cdce0f06-92fa-446d-a1c2-f3d01cd5e27c.png)
