@@ -71,6 +71,21 @@ Edisi khusus prangko NFT dalam format standar carik kenangan atau souvenir sheet
 
 ## Persetujuan Pemerintah
 
-Sebelum prangko di terbitkan maka, dibuat durat untuk perijinan penerbitan ePrangko, isi dari surat tersebut antara lain :
+Sebelum ePrangko di terbitkan maka, surat untuk perijinan penerbitan ePrangko dikirimkan dengan lampiran :
 1. Melampirkan cetak coba atau contoh eprangko yang akan diterbitkan
 2. Melampirkan informasi yang akan dimasukkan di dalam QR Code
+
+
+## Riset dan Pengembangan ePrangko
+
+Pengembangan ePrangko bisa dikolaborasikan untuk penelitian di bidang :
+1. Biaya produksi prangko digital, investasi awal dan biaya operasional
+2. Teknologi yang digunakan diantaranya :
+   * Pengembangan kapasitas dan kecepatan baca QR Code
+   * Pengembangan platform AR
+   * Pengembangan teknologi Blockchain
+   * Pengembangan NFT
+
+Sumber pendanaan :
+1. Penelitian Kerjasama dengan perguruan tinggi melalui [kedaireka](https://kedaireka.id/)
+2. Penelitian Dosen [bima](https://bima.kemdikbud.go.id/)
