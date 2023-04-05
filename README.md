@@ -23,6 +23,9 @@ Dasar Hukum :
 
 ## Draft Standar Penerbitan Eprangko
 
+Eprangko merupakan pengembangan dari prangko konvensional. Prangko fisik tetap dicetak dengan memperhatikan [STANDAR TEKNIS PRANGKO REPUBLIK INDONESIA
+](http://www.indonesianewsonline.com/prangko/stamps/standar.htm) ditambahkan dengan fitur elektronik di dalamnya. 
+
 Eprangko bisa menjadi Bukti pembayaran biaya pengiriman pos. Dengan cara menempelkan carik utama pada surat atau kartu pos. Dengan fungsi utama sebagai media keamanan pengiriman surel. Baik itu surel yang bersifat rahasia, penting atau biasa. EPrangko menjadi salah satu metode untuk meningkatkan faktor keamanan MFA (MFA : Multi Factor Authentication) pada pengiriman surel pelanggan. 
 Alurnya pengiriman surel terenkripsi :
 
