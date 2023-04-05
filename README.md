@@ -66,3 +66,9 @@ Contoh Teknologi Open Standar AR Internasional : Google's ARCore, AR.js, ARToolK
 ### Prangko NFT
 
 Edisi khusus prangko NFT dalam format standar carik kenangan atau souvenir sheet yang terbit minimal setahun sekali. Yang disebut sebagai prangko NFT disini adalah prangko yang berisikan koleksi NFT yang di simpan dalam wallet address dicetak pada carik utama(QR). Akses wallet adress menggunakan private key atau pass phrase (QR) di bagian carik keamanan. Sehingga pemilik Carik Kenangan merupakan pemilik NFT sepenuhnya, tanpa harus melakukan klaim lagi dari sistem.
+
+## Persetujuan Pemerintah
+
+Sebelum prangko di terbitkan maka, dibuat durat untuk perijinan penerbitan ePrangko, isi dari surat tersebut antara lain :
+1. Melampirkan cetak coba atau contoh eprangko yang akan diterbitkan
+2. Melampirkan informasi yang akan dimasukkan di dalam QR Code
