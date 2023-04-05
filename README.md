@@ -41,9 +41,27 @@ Alurnya pengiriman surel terenkripsi :
 2. QR Code berisi Keyring PGP dengan masa kedaluarsa 1 tahun, disposable atau reuse. Berfungsi untuk pengiriman surel terenskripsi sesuai dengan standar [RFC 2350 Gov-CSIRT Indonesia](https://www.idsirtii.or.id/halaman/tentang/rfc-2350-gov-csirt-indonesia.html)
 3. Bisa di kerjasamakan dengan [Penyelenggara Sertifikasi Elektronik PSrE](https://www.rootca.id/) untuk menyediaan key server untuk kepentingan validasi pengirim dan penerima surel.
 
+### QR Code
+
+Menggunakan teknologi Dynamic QR dengan Isi Konten QR Code :
+1. Berisi informasi mengenai perangko seperti penerbitan, desain dan pengetahuan mengenai prangko yang diterbitkan.
+2. Berisi informasi pengirim dan penerima serta status pengiriman dan tracking lokasi barang.
+
+Untuk solusi nomor 1 menggunakan blockchain hosting seperti : 
+* [Arweave](https://www.arweave.org/)
+* Filecoin
+* Bullit
+* BitTorrent File System (BTFS) 
+* Storj
+* Siacoin
+
+Untuk solusi nomor 2 menggunakan website tracking Penyedia jasa pos yang menggunakan metode HTTP GET. Efeknya adalah setiap carik perangko memiliki QR-Code berbeda karena nomor tracking yang berbeda yang dicocokkan langsung dengan basisdata pengiriman aktif. Jika pengiriman sudah selesai maka dalam jangka waktu tertentu tracking tersebut di hapus untuk menjaga privasi.
+
 ### Augmented Reality
 
-Augmented reality(AR) berfungsi untuk menambah informasi tentang prangko, platform AR menggunakan kode sumber terbuka dan infrastruktur yang di sepakati bersama dalam rangka kontribusi riset dan ilmu pengetahuan, supaya konten terus tumbuh berkembang. Sebagai contoh : Google's ARCore, AR.js, ARToolKit, DroidAR.
+Augmented reality(AR) berfungsi untuk menambah informasi tentang prangko, platform AR menggunakan kode sumber terbuka dan infrastruktur yang di sepakati bersama dalam rangka kontribusi riset dan ilmu pengetahuan berupa Open Standar AR untuk eprangko. Supaya konten terus tumbuh berkembang, dan ongkos produksi AR bisa turun. 
+
+Contoh Teknologi Open Standar AR Internasional : Google's ARCore, AR.js, ARToolKit, DroidAR.
 
 ### Prangko NFT
 
