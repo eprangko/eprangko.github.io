@@ -47,7 +47,7 @@ Menggunakan teknologi Dynamic QR dengan Isi Konten QR Code :
 1. Berisi informasi mengenai perangko seperti penerbitan, desain dan pengetahuan mengenai prangko yang diterbitkan.
 2. Berisi informasi pengirim dan penerima serta status pengiriman dan tracking lokasi barang.
 
-Untuk solusi nomor 1 menggunakan blockchain hosting seperti : 
+Karena filatelis bersifat tahunan, dan aagar tetap bisa mengakses informasi mikroblogging atau situs tentang perangko. Maka untuk solusi nomor 1 menggunakan blockchain hosting seperti : 
 * [Arweave](https://www.arweave.org/)
 * Filecoin
 * Bullit
