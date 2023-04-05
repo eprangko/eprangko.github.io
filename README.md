@@ -16,8 +16,10 @@ Dasar Hukum :
   * ![image](https://user-images.githubusercontent.com/11188109/229658397-4f33cc66-0572-4999-bc50-0cde8d23ea4f.png)
   
 
-Paparan :
-* [Prangko Digital Twin](./ppt/DigitalTwinPrangko.pdf) Beberapa Negara
+## Paparan Presentasi
+
+1. [Prangko Digital Twin](./ppt/DigitalTwinPrangko.pdf) Beberapa Negara
+2. [ePrangko](./ppt/Eprangko.pdf) Konsep prangko elektronik Indonesia
 
 ## Draft Standar Penerbitan Eprangko
 
