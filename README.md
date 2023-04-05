@@ -32,16 +32,16 @@ Alurnya pengiriman surel terenkripsi :
 4. Penerima Carik Utama menggunakan kunci tersebut untuk mengirimkan surel yang di enkripsi.
 5. Surel terenkripsi diterima oleh pengirim carik utama dibuka dengan menggunakan kode dari carik pengaman.
 
-### Kerangka Dasar Desain EPrangko
+### QR Code ePrangko sebagai Bukti pembayaran biaya pengiriman pos
 
-1. Menggunakan secure paper. Memiliki dua carik yang dipisahkan oleh perforasi, carik utama dan carik lampiran. Carik utama berisi QR(Quick Response) Code PGP publik key, carik lampiran berisi QR(Quick Response) Code PGP private key. Carik utama berfungsi sebagai bukti bayar biaya pengiriman pos untuk dikirimkan ke pada calon pengirim surel, sedangkan carik lampirang di simpan oleh penerima. Carik lampiran bisa di tambahkan keamanan dengan menambahkan scratch-area, sehingga untuk membaca QR dengan cara di gosok. 
+1. Menggunakan secure paper. Memiliki dua carik yang dipisahkan oleh perforasi, carik utama dan carik lampiran. Carik utama berisi QR(Quick Response) Code PGP publik key, carik lampiran berisi QR(Quick Response) Code PGP private key. Carik utama berfungsi sebagai bukti bayar biaya pengiriman pos untuk dikirimkan ke pada calon pengirim surel, sedangkan carik lampirang di simpan oleh penerima. Carik lampiran bisa di tambahkan keamanan dengan menambahkan scratch-area, sehingga untuk membaca QR dengan cara di gosok. Letak posisi QR disesuaikan dengan estetika prangko, bisa di dalam maupun di luar perforasi prangko.
 
 ![image](https://user-images.githubusercontent.com/11188109/229650984-cdce0f06-92fa-446d-a1c2-f3d01cd5e27c.png)
 
 2. QR Code berisi Keyring PGP dengan masa kedaluarsa 1 tahun, disposable atau reuse. Berfungsi untuk pengiriman surel terenskripsi sesuai dengan standar [RFC 2350 Gov-CSIRT Indonesia](https://www.idsirtii.or.id/halaman/tentang/rfc-2350-gov-csirt-indonesia.html)
 3. Bisa di kerjasamakan dengan [Penyelenggara Sertifikasi Elektronik PSrE](https://www.rootca.id/) untuk menyediaan key server untuk kepentingan validasi pengirim dan penerima surel.
 
-### QR Code
+### Informasi Tambahan dalam QR Code
 
 Menggunakan teknologi Dynamic QR dengan Isi Konten QR Code :
 1. Berisi informasi mengenai perangko seperti penerbitan, desain dan pengetahuan mengenai prangko yang diterbitkan.
